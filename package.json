@@ -1,0 +1,23 @@
+{
+  "homepage": "http:localhost:3000",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "koa-bodyparser": "^4.3.0",
+    "koa-logger": "^3.2.1",
+    "koa-onerror": "^4.2.0",
+    "koa-router": "^10.1.1",
+    "koa-session": "^6.2.0",
+    "koa2": "^2.0.0-alpha.7",
+    "koa2-cors": "^2.0.6",
+    "moment": "^2.29.1",
+    "mysql2": "^2.3.3",
+    "node-uuid": "^1.4.8",
+    "nodemon": "^2.0.16",
+    "sequelize": "^6.17.0",
+    "svg-captcha": "^1.4.0"
+  }
+}
